@@ -32,24 +32,18 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+## About me
 
-I am Fan Liangxian.
-
-## Specialties
-
-GIS
-
-## Experience
-
-### Tidbit Games
-#### NENU • Oct 2020 - Current • Changchun, China
+I am Fan Liangxian, a research student(prosective Ph.d from Apr. 2022) belonging to [KATO's lab](https://terraecomod.wixsite.com/kato-lab-hokudai-e), 
+ [Research Faculty of Agriculture](https://www.agr.hokudai.ac.jp/en/r), [Hokkaido Univ.](https://www.global.hokudai.ac.jp/). My supervisor is [Tomomichi KATO](https://terraecomod.wixsite.com/kato-lab-hokudai-e/tomomichi-kato). 
+ I received B.Se and M.Se from [School of Geographical Science](http://geo.nenu.edu.cn/), [Northeast Normal Univ.](http://www.nenu.edu.cn/). 
+ My current research mainly focous on *climate change*, *ecological system*, *phenology of vegetation*, *remote sensing*, etc.
 
 
 ## Education
 
 ### Hokkaido University
-#### PhD • Jan 2022 - Current • Hokkaido, Japan
+#### Research student&Ph.d • Oct 2021 - Current • Hokkaido, Japan
 
 ### Northeast Normal University
 #### M.Se • Sept 2017 - Jun 2020 • Changchun, China
@@ -58,11 +52,15 @@ GIS
 #### B.Se • Sept 2013 - Jun 2017 • Changchun, China
 
 
-## Get in Touch
+## Publications
+[1] Fan, L.; Zhao, J.; Wang, Y.; Ren, Z.; Zhang, H.; Guo, X. Assessment of Night-Time Lighting for Global Terrestrial Protected and Wilderness Areas. RemoteSens. 2019, 11, 2699. [DOI](https://www.mdpi.com/2072-4292/11/22/2699).
 
+
+## Get in Touch
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:Fanlx202@nenu.edu.cn)
-![{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-!{{< icon name="weixin" pack="fab" >}}微信用户名  
+Research Faculty of Agriculture, Hokkaido University
+Kita 9 Jo, Nishi 9 Chome, Kita-ku, Sapporo, Hokkaido 060-8589, Japan
+#[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
 
 ## Credits
 
