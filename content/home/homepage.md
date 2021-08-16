@@ -52,8 +52,7 @@ B.Se • Sept 2013 - Jun 2017 • **Northeast Normal University**, Changchun, Ch
 
 
 ## Access
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:Fanlx202@nenu.edu.cn)
-
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:Fanlx202@nenu.edu.cn)<br>
 Research Faculty of Agriculture, Hokkaido University<br>
 Kita 9 Jo, Nishi 9 Chome, Kita-ku, Sapporo, Hokkaido 060-8589, Japan
 
