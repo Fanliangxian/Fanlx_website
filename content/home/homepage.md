@@ -42,10 +42,8 @@ I am Fan Liangxian, a research student(prosective Ph.d from Apr. 2022) belonging
 
 ## Education
 
-Research student & Ph.d • Oct 2021 - Current • **Hokkaido University**, Hokkaido, Japan
-
-M.Se • Sept 2017 - Jun 2020 • **Northeast Normal University**, Changchun, China
-
+Research student & Ph.d • Oct 2021 - Current • **Hokkaido University**, Hokkaido, Japan<br>
+M.Se • Sept 2017 - Jun 2020 • **Northeast Normal University**, Changchun, China<br>
 B.Se • Sept 2013 - Jun 2017 • **Northeast Normal University**, Changchun, China
 
 
