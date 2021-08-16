@@ -42,7 +42,7 @@ I am Fan Liangxian, a research student(prosective Ph.d from *Apr. 2022*) belongi
 
 ## What's new
 
-*16, Aug. 2021*  This part will be used to record the latest news about my research.
+*16, Aug. 2021* &nbsp; This part will be used to record the latest news about my research.
 
 
 ## Education
