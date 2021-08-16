@@ -34,22 +34,22 @@ advanced:
 
 ## About me
 
-I am Fan Liangxian, a research student(prosective Ph.d from Apr. 2022) belonging to [KATO's lab](https://terraecomod.wixsite.com/kato-lab-hokudai-e), 
+I am Fan Liangxian, a research student(prosective Ph.d from *Apr. 2022*) belonging to [KATO's lab](https://terraecomod.wixsite.com/kato-lab-hokudai-e), 
  [Research Faculty of Agriculture](https://www.agr.hokudai.ac.jp/en/r), [Hokkaido Univ.](https://www.global.hokudai.ac.jp/). My supervisor is Associate Prof. [Tomomichi KATO](https://terraecomod.wixsite.com/kato-lab-hokudai-e/tomomichi-kato). 
  I have received B.Se and M.Se from [School of Geographical Science](http://geo.nenu.edu.cn/), [Northeast Normal Univ.](http://www.nenu.edu.cn/). 
- My current research mainly focous on **climate change**, **ecological system**, **phenology of vegetation**, **remote sensing**, etc. Full [CV](/files/cv.pdf) is available.
+ My current research mainly focous on **climate change**, **ecological system**, **phenology of vegetation**, **remote sensing**, etc.<br>Full [CV](/files/cv.pdf) is available.
 
 
 ## What's new
 
-Aug, 16.  This part will be used to record current research.
+*16, Aug. 2021*  This part will be used to record the latest news about my research.
 
 
 ## Education
 
-Research student & Ph.d  •  Oct 2021 - Current  •  **Hokkaido University**, Hokkaido, Japan<br>
-M.Se  •  Sept 2017 - Jun 2020  •  **Northeast Normal University**, Changchun, China<br>
-B.Se  •  Sept 2013 - Jun 2017  •  **Northeast Normal University**, Changchun, China
+Research student & Ph.d  •  *Oct 2021 - Current*  •  **Hokkaido University**, Hokkaido, Japan<br>
+M.Se  •  *Sept 2017 - Jun 2020*  •  **Northeast Normal University**, Changchun, China<br>
+B.Se  •  *Sept 2013 - Jun 2017*  •  **Northeast Normal University**, Changchun, China
 
 
 ## Publications
