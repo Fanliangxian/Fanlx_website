@@ -42,7 +42,7 @@ I am Fan Liangxian, a research student(prosective Ph.d from Apr. 2022) belonging
 
 ## Education
 
-Research student&Ph.d • Oct 2021 - Current • **Hokkaido University**, Hokkaido, Japan
+Research student & Ph.d • Oct 2021 - Current • **Hokkaido University**, Hokkaido, Japan
 
 M.Se • Sept 2017 - Jun 2020 • **Northeast Normal University**, Changchun, China
 
@@ -50,7 +50,7 @@ B.Se • Sept 2013 - Jun 2017 • **Northeast Normal University**, Changchun, Ch
 
 
 ## Publications
-[1] *Fan, L.; Zhao, J.; Wang, Y.; Ren, Z.; Zhang, H.; Guo, X. Assessment of Night-Time Lighting for Global Terrestrial Protected and Wilderness Areas. RemoteSens. 2019, 11, 2699.* [DOI](https://www.mdpi.com/2072-4292/11/22/2699), [PDF](/files/cv.pdf).
+[1] ***Fan, L**.; Zhao, J.; Wang, Y.; Ren, Z.; Zhang, H.; Guo, X. Assessment of Night-Time Lighting for Global Terrestrial Protected and Wilderness Areas. RemoteSens. 2019, 11, 2699.* [DOI](https://www.mdpi.com/2072-4292/11/22/2699), [PDF](/files/remotesensing-11-02699-v2.pdf).
 
 
 ## Access
