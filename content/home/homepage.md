@@ -34,9 +34,9 @@ advanced:
 
 ## About me
 
-I am Fan Liangxian, a research student(prosective Ph.d from *Apr. 2022*) belonging to [KATO's lab](https://terraecomod.wixsite.com/kato-lab-hokudai-e), 
- [Research Faculty of Agriculture](https://www.agr.hokudai.ac.jp/en/r), [Hokkaido Univ.](https://www.global.hokudai.ac.jp/). My supervisor is Associate Prof. [Tomomichi KATO](https://terraecomod.wixsite.com/kato-lab-hokudai-e/tomomichi-kato). 
- I have received B.Se and M.Se from [School of Geographical Science](http://geo.nenu.edu.cn/), [Northeast Normal Univ.](http://www.nenu.edu.cn/). 
+I am Fan Liangxian, a research student(prosective Ph.d from *Apr. 2022*) belonging to [Lab of Terrestrial Ecosystem Modeling](https://terraecomod.wixsite.com/kato-lab-hokudai-e), 
+ [Research Faculty of Agriculture](https://www.agr.hokudai.ac.jp/en/r), [Hokkaido Univ.](https://www.global.hokudai.ac.jp/). My supervisor is Associate Prof. [KATO Tomomich](https://terraecomod.wixsite.com/kato-lab-hokudai-e/tomomichi-kato). 
+ I have received B.Se and M.Se from [School of Geographical Science](http://geo.nenu.edu.cn/), [Northeast Normal Univ.](http://www.nenu.edu.cn/), under the guidence of Associate Prof. [Zhao Jianjun](http://js.nenu.edu.cn/teacher/index.php?zgh=1001900147). 
  My current research mainly focous on **climate change**, **ecological system**, **phenology of vegetation**, **remote sensing**, etc.<br>Full [CV](/files/cv.pdf) is available.
 
 
